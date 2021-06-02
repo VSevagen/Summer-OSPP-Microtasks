@@ -4,7 +4,7 @@ This is the repository for the microtask related to Project ID: 210190824 for Su
 
 ## Lists of microtasks
 
-### Microtask-1
+### Microtask-1 :heavy_check_mark:
 
 <blockquote>
 Set up GrimoireLab on your machine.
@@ -30,8 +30,10 @@ Create a new visualization.
 Write a markdown file describing your process of creating a new visualization.
 </blockquote>
 
-### Microtask-4
+### Microtask-5 :heavy_check_mark:
 
 <blockquote>
 Submit at least a PR to one of GrimoireLab repositories.
 </blockquote>
+
+You can find the PR's [here](https://github.com/VSevagen/Summer-OSPP-Microtasks/tree/main/microtask-5)
