@@ -12,6 +12,16 @@ Learn about setup.cfg & projects.json and set up data collection for the Grimoir
 6. Run <code>micro.py --raw --enrich --cfg ./setup.cfg --backends git</code> as shown in the tutorial
 7. Run <code>micro.py --panels --cfg ./setup.cfg</code>
 
+## What is setup.cfg ?
+
+setup.cfg is the configuration file that hold the processese related to data collection, data enrichment, storage of SortingHat creds
+and instances of the raw and enriched ElasticSearch data.
+
+## What is projects.json ?
+
+projects.json is the JSON file responsible for the data in the dashboard. It is where a user can list out the platforms from
+where, according to the data, a visualization of some sort will be displayed.
+
 ## Issues faced
 
 1. Run into the empty index issue. Solved it by disabling latest_items as shown in the Getting-Started file
