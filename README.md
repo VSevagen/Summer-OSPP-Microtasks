@@ -20,11 +20,13 @@ Learn about <code>setup.cfg</code> and <code>projects.json</code> and setup data
 
 You can find the demo [here](https://github.com/VSevagen/Summer-OSPP-Microtasks/tree/main/microtask-2)
 
-### Microtask-3
+### Microtask-3 :heavy_check_mark:
 
 <blockquote>
 Create a new visualization.
 </blockquote>
+
+You can find the visualization screenshot [here](https://github.com/VSevagen/Summer-OSPP-Microtasks/tree/main/microtask-3)
 
 ### Microtask-4
 
