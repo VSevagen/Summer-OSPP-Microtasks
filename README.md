@@ -12,11 +12,13 @@ Set up GrimoireLab on your machine.
 
 You can find the demo [here](https://github.com/VSevagen/Summer-OSPP-Microtasks/tree/main/microtask-1)
 
-### Microtask-2
+### Microtask-2 :heavy_check_mark:
 
 <blockquote>
-Learn about <code>setup.cfg</code> and <code>projects.json</code>
+Learn about <code>setup.cfg</code> and <code>projects.json</code> and setup data collection for project using MicroMordred
 </blockquote>
+
+You can find the demo [here](https://github.com/VSevagen/Summer-OSPP-Microtasks/tree/main/microtask-2)
 
 ### Microtask-3
 

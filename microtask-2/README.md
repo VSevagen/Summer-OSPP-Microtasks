@@ -1,6 +1,6 @@
-## Microtask-1
+## Microtask-2
 
-Set up GrimoireLab on your machine
+Learn about setup.cfg & projects.json and set up data collection for the GrimoireLab project using SirMordred. Feel free to choose any backend and the projects.
 
 ## Steps
 
