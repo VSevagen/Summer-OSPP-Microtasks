@@ -4,6 +4,6 @@ Create a new visualization using the data
 
 ### What kind of visualization is that ? :)
 
-The visualization I came up with is the maximun count of lines_added and line_removed of author names in grimoirelab.
+The visualization I came up with is about a pie chart which shows the number of authors per organisation/affiliation.
 
 ![visualization_image](visualize.png)
