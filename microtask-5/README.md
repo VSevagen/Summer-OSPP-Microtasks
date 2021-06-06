@@ -18,6 +18,7 @@ I have listed the contributions to the GrimoireLab components<br>
 [chaoss/grimoirelab-sortinghat](https://github.com/chaoss/grimoirelab-sortinghat)
 
 - [#498](https://github.com/chaoss/grimoirelab-sortinghat/pull/498): Remove unused CI file
+- [#533](https://github.com/chaoss/grimoirelab-sortinghat/pull/533): Improve coverage for schema.py
 
 [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab)
 
